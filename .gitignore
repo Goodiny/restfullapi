@@ -1,3 +1,7 @@
-venv
 .idea
+venv
+instance
+.github
 .gitignore
+qodana.yaml
+qodana.sarif.jsonmoody10_ring
